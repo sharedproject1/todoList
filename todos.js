@@ -17,7 +17,7 @@ var todoList = {
     }
 };
 
-//todoList.deleteTodo(2);
+
 
 
 
