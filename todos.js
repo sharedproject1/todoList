@@ -19,8 +19,6 @@ var todoList = {
 
 //todoList.deleteTodo(2);
 
-var firstName = ["april", "honey", "jun"];
-console.log(firstName);
 
 
 
