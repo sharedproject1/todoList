@@ -22,7 +22,7 @@ var todoList = {
 
 //Pls work on version 4 - Booleans, I'll proceed with Version - 5 Loops of Logic
 
-
+//jun command me to type whatever title
 
 
 
