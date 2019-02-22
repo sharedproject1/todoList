@@ -18,10 +18,31 @@ var todoList = {
 };
 
 
+
+
 //added new comment for test
 
 //Pls work on version 4 - Booleans, I'll proceed with Version - 5 Loops of Logic
 
+var todoList = {
+    todos: []
+    displayTodos: function () {
+        console.log('My todos:'todos);
+}
+},
+addTodo: function (todoText) {
+        this.todos.push({
+            todoText: todoText,
+            completed: false
+        });
+        this.displayTodos();
+}
+// changeTodo: function (position, todoText) {
+//     this.todos [position].todoText = todoText;
+//     this.displayTodos();
+// }
+
+// todoList.addTodos("hi");
 //jun command me to type whatever title
 
 
